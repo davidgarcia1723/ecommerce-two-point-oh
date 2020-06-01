@@ -1,0 +1,98 @@
+[
+    {
+        "img" : "img/products/SSBU.png",
+        "productName" : "Super Smash Bros Ultimate",
+        "productCost" : "$59.99",
+        "productDescription" : "Gaming's greatest fighters battle it out on the biggest stage yet!",
+        "price" : "price20to60",
+        "type" : "games"
+    },
+    {
+        "img" : "img/products/SMO.png",
+        "productName" : "Super Mario Odyssey",
+        "productCost" : "$59.99",
+        "productDescription" : "Join Mario and his friends on his new adventure to save Peach from Bowser!",
+        "price" : "price20to60",
+        "type" : "games"
+    },
+    {
+        "img" : "img/products/MK8D.png",
+        "productName" : "Mario Kart 8 Deluxe",
+        "productCost" : "$59.99",
+        "productDescription" : "Start your engines and join the fun with Nintendo's famous race game!",
+        "price" : "price20to60",
+        "type" : "games"
+    },
+    {
+        "img" : "img/products/PARTY.png",
+        "productName" : "Super Mario Party",
+        "productCost" : "$59.99",
+        "productDescription" : "Ready to test the strength of your friendships? This party game will do just that!",
+        "price" : "price20to60",
+        "type" : "games"
+    },
+    {
+        "img" : "img/products/SWORD.png",
+        "productName" : "Pokemon Sword",
+        "productCost" : "$59.99",
+        "productDescription" : "Journey across the new Galar region! Train Pokemon, New and Old! Become the Pokemon World Champion!",
+        "price" : "price20to60",
+        "type" : "games"
+    },
+    {
+        "img" : "img/products/PMD.png",
+        "productName" : "Pokemon Mystery Dungeon",
+        "productCost" : "$59.99",
+        "productDescription" : "What if one day you woke up and you were a Pokemon? Find out in the remake of a classic!",
+        "price" : "price20to60",
+        "type" : "games"
+    },
+    {
+        "img" : "img/products/ACNH.png",
+        "productName" : "Animal Crossing: New Horizons",
+        "productCost" : "$59.99",
+        "productDescription" : "Join Tom Nook and settle a Deserted Island! Live your best life as you grow your new home!",
+        "price" : "price20to60",
+        "type" : "games"
+    },
+    {
+        "img" : "img/products/BOTW.png",
+        "productName" : "The Legend of Zelda: Breath of the Wild",
+        "productCost" : "$59.99",
+        "productDescription" : "In a post-apocalyptic Hyrule, Link is the only hope left to defeat Ganon! Uncover the past and save the future!",
+        "price" : "price20to60",
+        "type" : "games"
+    },
+    {
+        "img" : "img/products/Switch.png",
+        "productName" : "Nintendo Switch with Neon Joy-Cons",
+        "productCost" : "$299.99",
+        "productDescription" : "The most innovative system made by Nintendo, the Switch is ready to play at home and on the go!",
+        "price" : "priceOver60",
+        "type" : "systems"
+    },
+    {
+        "img" : "img/products/SwitchLite.png",
+        "productName" : "Nintendo Switch Lite",
+        "productCost" : "$199.99",
+        "productDescription" : "The latest iteration of the Nintendo Switch! The Switch Lite is perfect for those who prefer playing on the go!",
+        "price" : "priceOver60",
+        "type" : "systems"
+    },
+    {
+        "img" : "img/products/ProController.png",
+        "productName" : "Nintendo Switch Pro Controller",
+        "productCost" : "$59.99",
+        "productDescription" : "Play like the pros! The Pro controller is designed for a more traditional look and feel.",
+        "price" : "price20to60",
+        "type" : "accessories"
+    },
+    {
+        "img" : "img/products/SwitchGrips.png",
+        "productName" : "Switch Controller Grips",
+        "productCost" : "$14.99",
+        "productDescription" : "Get the most of your controllers with the Nintendo Switch grips! Protect your controller and play with comfort.",
+        "price" : "priceUnder20",
+        "type" : "accessories"
+    }
+]

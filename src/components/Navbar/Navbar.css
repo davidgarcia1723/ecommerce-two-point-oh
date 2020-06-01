@@ -1,0 +1,49 @@
+/* Nav Bar */
+
+.controller{
+    display: inline-block;
+    float: left;
+    padding-right: 5px;
+}
+
+.container-nav {
+    margin: auto;
+    max-width: 90%;
+    overflow: auto;
+    padding: 0 20px;
+}
+#navbar {
+    background: #F5F5F5;
+    color: #555;
+    overflow: auto;
+    font-style: "https://fonts.googleapis.com/css?family=Montserrat&display=swap";
+}
+#navbar h1 {
+    float: left;
+    padding: 13px 0px;
+}
+#navbar ul {
+    list-style: none;
+    float: right;
+}
+#navbar ul li {
+    float: left;
+}
+#navbar ul li a {
+    display: inline-block;
+    padding: 20px 40px;
+    text-align: center;
+}
+#navbar ul li a:hover,
+#navbar ul li a.current {
+    background: red;
+    color: #F5F5F5;
+}
+
+.blue {
+    color: blue;
+}
+
+.red {
+    color: red;
+}
