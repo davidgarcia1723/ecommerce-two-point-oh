@@ -76,7 +76,7 @@ const initialState = {
           <div>
             <input
               name="name"
-              placeholder="name"
+              placeholder="Name"
               value={this.state.name}
               onChange={this.handleChange}
             />
@@ -89,7 +89,7 @@ const initialState = {
           <div>
             <input
               name="email"
-              placeholder="email"
+              placeholder="Email"
               value={this.state.email}
               onChange={this.handleChange}
             />

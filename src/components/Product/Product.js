@@ -41,12 +41,14 @@ class Product extends React.Component {
                     </div>
                 </section>
                 <div id="myBtnContainer">
+            <label style={{padding: "10px"}}>Filter by Product Type: </label>
             <select id="productType" value={type} onChange={this.handlePriceDropdownSelect}>
                 <option value="default">Show All</option>
                 <option value="games">Games</option>
                 <option value="systems">Systems</option>
                 <option value="accessories">Accessories</option>
             </select>
+            <label style={{padding: "10px"}}>Filter by Price: </label>
             <select id="productPrice" value={price} onChange={this.handlePriceDropdownSelect}>
                 <option value="default">Show All</option>
                 <option value="price20to60">$20-$60</option>

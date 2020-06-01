@@ -76,3 +76,8 @@ p{
     margin: auto;
 }
 
+@media screen and (max-width: 600px) {
+    textarea {
+        width: 90%;
+    }
+}
